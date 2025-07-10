@@ -1,0 +1,62 @@
+[
+  {
+    "name": "mk01",
+    "jobs": 10,
+    "machines": 6,
+    "optimum": 40,
+    "path": "brandimarte/mk01.txt"
+  },
+  {
+    "name": "mk02",
+    "jobs": 10,
+    "machines": 6,
+    "optimum": null,
+    "bounds": {
+      "upper": 26,
+      "lower": 24
+    },
+    "path": "brandimarte/mk02.txt"
+  },
+  {
+    "name": "mk03",
+    "jobs": 15,
+    "machines": 8,
+    "optimum": 204,
+    "path": "brandimarte/mk03.txt"
+  },
+  {
+    "name": "mk04",
+    "jobs": 15,
+    "machines": 8,
+    "optimum": 60,
+    "path": "brandimarte/mk04.txt"
+  },
+  {
+    "name": "k1",
+    "jobs": 20,
+    "machines": 5,
+    "optimum": 120,
+    "path": "kacem/k1.txt"
+  },
+  {
+    "name": "k2",
+    "jobs": 20,
+    "machines": 5,
+    "optimum": 120,
+    "path": "kacem/k2.txt"
+  },
+  {
+    "name": "k3",
+    "jobs": 20,
+    "machines": 5,
+    "optimum": 120,
+    "path": "kacem/k3.txt"
+  },
+  {
+    "name": "k4",
+    "jobs": 20,
+    "machines": 5,
+    "optimum": 120,
+    "path": "kacem/k4.txt"
+  }
+]
