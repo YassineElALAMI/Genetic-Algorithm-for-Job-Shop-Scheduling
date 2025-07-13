@@ -221,8 +221,8 @@ Potential enhancements:
 
 For any questions, suggestions, or issues related to this project, please feel free to contact:
 
-- Email: [your.email@example.com](yassine.elalami5@usmba.ac.ma)
-- GitHub: [your-github-username](https://github.com/YassineElALAMI)
+- Email: [yassine.elalami5@usmba.ac.ma]
+- GitHub: [https://github.com/YassineElALAM]
 
 We welcome contributions and feedback to improve this implementation of the Genetic Algorithm for Job Shop Scheduling.
 
